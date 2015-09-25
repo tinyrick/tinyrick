@@ -4,7 +4,7 @@ The misadventures of alcoholic scientist Rick and his easily influenced grandson
 #Usage
 
 ```
-var tinyrick = require('tinyrick);
+var tinyrick = require('tinyrick');
 
 console.log(tinyrick.getSchwifty());
 ```
