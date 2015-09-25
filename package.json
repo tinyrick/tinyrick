@@ -1,0 +1,24 @@
+{
+  "name": "tinyrick",
+  "version": "1.0.0",
+  "description": "The misadventures of alcoholic scientist Rick and his easily influenced grandson Morty.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tinyrick/tinyrick.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tinyrick/tinyrick/issues"
+  },
+  "homepage": "https://github.com/tinyrick/tinyrick#readme",
+  "dependencies": {
+    "chai": "^3.3.0",
+    "lodash": "^3.10.1",
+    "mocha": "^2.3.3"
+  }
+}
