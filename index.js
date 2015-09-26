@@ -19,11 +19,18 @@ var quotes = [
   'Huntin a vampire with my grandkids!! Tiny Rick!!',
   'Damn, girl! You need to chill out! This whole thing was your idea in the first place, and now you\'re tryin to rush it along.',
   'I’m begging for help, I’m pleading for help! Please come let me out! I’m dying in a vat in the gara-a-age!',
-  'Let me out! Let me out! This is not a dance.'
+  'Let me out! Let me out! This is not a dance.',
+  'Snuffles is my slave name, you can call me snowball.',
+  'He\'s not a hot girl. He can\'t just bail on his life and set up shop in someone else\'s.',
+  'That just sounds like slavery with extra steps!',
+  'Wait for the ramp Morty! They love the slow ramp.',
+  'What about the reality where Hitler cured cancer, Morty? The answer is: Don\'t think about it.',
+  'From now on, no more of this clever-name bullcrap. When a vampire is pretending to be a human, they can just call themselves Alan Jefferson or something like that.',
+  'It\'s a figure of speech, Morty! They\'re bureaucrats! I don\'t respect them. Just keep shooting, Morty! You have no idea what prison is like here!'
 ];
 
 module.exports = {
   getSchwifty: function() {
     return quotes[_.random(0, quotes.length - 1)];   
   }
-}
+};
