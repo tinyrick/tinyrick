@@ -20,3 +20,6 @@ Returns an array of all the quotes included in this module
 ```javascript
 var allQuotes = tinyrick.getSchwiftyInHere();
 ```
+
+#Notes
+If you'd like to add more quotes, go ahead and add them and make a pull request. We'd be happy to include them.
