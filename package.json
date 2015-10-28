@@ -1,6 +1,6 @@
 {
   "name": "tinyrick",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "The misadventures of alcoholic scientist Rick and his easily influenced grandson Morty.",
   "main": "index.js",
   "scripts": {

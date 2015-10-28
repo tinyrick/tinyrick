@@ -14,7 +14,7 @@ Returns a random quote from Rick and Morty
 var randomQuote = tinyrick.getSchwifty();
 ```
 
-##getSchriftyInHere()
+##getSchwiftyInHere()
 Returns an array of all the quotes included in this module
 
 ```javascript
