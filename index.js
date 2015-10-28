@@ -26,11 +26,18 @@ var quotes = [
   'Wait for the ramp Morty! They love the slow ramp.',
   'What about the reality where Hitler cured cancer, Morty? The answer is: Don\'t think about it.',
   'From now on, no more of this clever-name bullcrap. When a vampire is pretending to be a human, they can just call themselves Alan Jefferson or something like that.',
-  'It\'s a figure of speech, Morty! They\'re bureaucrats! I don\'t respect them. Just keep shooting, Morty! You have no idea what prison is like here!'
+  'It\'s a figure of speech, Morty! They\'re bureaucrats! I don\'t respect them. Just keep shooting, Morty! You have no idea what prison is like here!',
+  'It\'s like the N word and the C word had a baby and it was raised by all the bad words for Jews.',
+  'Get off the high road Summer. We all got pink eye because you wouldn\'t stop texting on the toilet.',
+  'GRAAAAAASSSSSSS.... tastes bad.',
+  'Wubbalubbadubdub!'
 ];
 
 module.exports = {
   getSchwifty: function() {
-    return quotes[_.random(0, quotes.length - 1)];   
+    return _.sample(quotes, 1)[0];
+  },
+  getSchwiftyInHere: function() {
+    return quotes;
   }
 };

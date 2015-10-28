@@ -1,16 +1,17 @@
 {
   "name": "tinyrick",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "The misadventures of alcoholic scientist Rick and his easily influenced grandson Morty.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/tinyrick/tinyrick.git"
   },
-  "author": "",
+  "author": "Andrew Bliss <andrewgbliss@gmail.com>",
+  "contributors":["Joey Cozza <joeycozza@gmail.com>"],
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/tinyrick/tinyrick/issues"

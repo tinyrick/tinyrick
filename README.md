@@ -3,8 +3,20 @@ The misadventures of alcoholic scientist Rick and his easily influenced grandson
 
 #Usage
 
-```
+```bash
 var tinyrick = require('tinyrick');
+```
 
-console.log(tinyrick.getSchwifty());
+##getSchwifty()
+Returns a random quote from Rick and Morty
+
+```javascript
+var randomQuote = tinyrick.getSchwifty();
+```
+
+##getSchriftyInHere()
+Returns an array of all the quotes included in this module
+
+```javascript
+var allQuotes = tinyrick.getSchwiftyInHere();
 ```
