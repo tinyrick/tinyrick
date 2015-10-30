@@ -31,7 +31,10 @@ var quotes = [
   'It\'s like the N word and the C word had a baby and it was raised by all the bad words for Jews.',
   'Get off the high road Summer. We all got pink eye because you wouldn\'t stop texting on the toilet.',
   'GRAAAAAASSSSSSS.... tastes bad.',
-  'Wubbalubbadubdub!'
+  'Wubbalubbadubdub!',
+  'Shut up ham-urai, shut up amish-cyborg. What is this? 90\'s Conan?',
+  'And that\'s the waaaaaaaaaaaaay the news goes!',
+  'Come on man, haven\'t we ever had an uncomfortable silence or an awkward fart on a road trip?'
 ];
 
 module.exports = {
