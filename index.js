@@ -8,6 +8,7 @@ var quotes = [
   'That\'s okay! I\'m Mr. Meeseeks! Look at me! Try again and keep your head down!',
   'On one of our adventures, Rick and I basically destroyed the whole world, so we bailed on that reality and we came to this one. Because in this one, the world wasn\'t destroyed. And in this one, we were dead. So we came here, a-an-an-and we buried ourselves and we took their place. And every morning, Summer, I eat breakfast 20 yards away from my own rotting corpse!',
   'Whatever you\'re asking, the answer is I\'m amazing. And away we go!',
+  'I\'m reeeeelly a brillllliant guy, I just get like dis so I can hang oud with my buddzzz!',
   'An entire afternoon at BLIPS AND CHI-I-I-I-I-ITZ!!!!',
   'The worlds can be one together, cosmos without hatred. Stars like diamonds in your eyes. The ground can be space (space, space, space, space). With feet marching towards a peaceful sky. All the moon men want things their way. But we make sure they see the sun. Goodbye, moon men. You say goodbye, moon men Goodbye—',
   'Would everybody just relax for a second? There\'s no such thing as an "Uncle Steve", that is an alien parasite. ',
@@ -30,7 +31,10 @@ var quotes = [
   'It\'s like the N word and the C word had a baby and it was raised by all the bad words for Jews.',
   'Get off the high road Summer. We all got pink eye because you wouldn\'t stop texting on the toilet.',
   'GRAAAAAASSSSSSS.... tastes bad.',
-  'Wubbalubbadubdub!'
+  'Wubbalubbadubdub!',
+  'Shut up ham-urai, shut up amish-cyborg. What is this? 90\'s Conan?',
+  'And that\'s the waaaaaaaaaaaaay the news goes!',
+  'Come on man, haven\'t we ever had an uncomfortable silence or an awkward fart on a road trip?'
 ];
 
 module.exports = {
