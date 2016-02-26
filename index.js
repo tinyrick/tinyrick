@@ -39,7 +39,7 @@ var quotes = [
 
 module.exports = {
   getSchwifty: function() {
-    return _.sample(quotes, 1)[0];
+    return _.sample(quotes);
   },
   getSchwiftyInHere: function() {
     return quotes;
