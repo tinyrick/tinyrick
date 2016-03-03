@@ -11,17 +11,19 @@
     "url": "git+https://github.com/tinyrick/tinyrick.git"
   },
   "author": "Andrew Bliss <andrewgbliss@gmail.com>",
-  "contributors":["Joey Cozza <joeycozza@gmail.com>"],
+  "contributors": [
+    "Joey Cozza <joeycozza@gmail.com>"
+  ],
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/tinyrick/tinyrick/issues"
   },
   "homepage": "https://github.com/tinyrick/tinyrick#readme",
   "dependencies": {
-    "lodash": "^3.10.1"
+    "lodash": "4.0.0"
   },
   "devDependencies": {
-    "chai": "^3.3.0",
-    "mocha": "^2.3.3"
+    "chai": "3.4.1",
+    "mocha": "2.3.4"
   }
 }
